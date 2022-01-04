@@ -11,10 +11,10 @@ Chat Application with Instant Messaging feature. Technologies - React, GraphQL, 
 
 <br/>
 
-To install Go, refer the this [link](https://go.dev/dl/).
+To install Go, follow this [link](https://go.dev/dl/).
 
 
-build the structure for the Go GraphQL server using gqlgen library.
+Build the structure for the Go GraphQL server using gqlgen library:
 
 ```go
 go mod init github.com/99designs/gqlgen

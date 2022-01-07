@@ -3,13 +3,7 @@ Chat Application with Instant Messaging feature. Technologies - React, GraphQL, 
 
 <br/>
 
-### Dependencies
-
-<br/>
-
-#### Server
-
-<br/>
+### Server
 
 To install Go, follow this [link](https://go.dev/dl/).
 
@@ -27,10 +21,7 @@ go run github.com/99designs/gqlgen init
 
 <br/>
 
-#### Client
-
-<br/>
-
+### Client
 
 If yarn package is not yet installed, refer the this [link](https://classic.yarnpkg.com/lang/en/docs/install) to install it.
 
